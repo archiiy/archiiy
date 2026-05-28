@@ -24,22 +24,19 @@ Backend Developer • AI-ML • Learning Full Stack Development
 
 ---
 
-### GitHub Stats
+### GitHub Stats 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=archiiy&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=archiiy&theme=tokyonight&hide_border=true" height="170"/>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=archiiy&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> 
+  <img src="https://streak-stats.demolab.com?user=archiiy&theme=tokyonight&hide_border=true" height="165"/> 
 </p>
 
----
+--- 
 
-### Most Used Languages
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archiiy&layout=compact&langs_count=8&theme=tokyonight"/>
+### Most Used Languages 
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archiiy&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ---
 
