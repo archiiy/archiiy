@@ -37,15 +37,13 @@ Backend Developer • AI-ML • Learning Full Stack Development
 ### Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archiiy&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archiiy&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
+
 
 ---
 
 ### Current Focus
-
-txt
-Building projects > Watching tutorials
 
 
 * Backend Development
