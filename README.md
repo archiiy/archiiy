@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Archita 👋</h1>
+<h1 align="center">Hi, I'm Archita</h1>
 
 <p align="center">
 Backend Developer • AI-ML • Learning Full Stack Development
@@ -72,4 +72,4 @@ Building projects > Watching tutorials
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=archiiy&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-```
+
